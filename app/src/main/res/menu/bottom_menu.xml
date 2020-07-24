@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/writeStory" app:showAsAction="always"
+        android:title="@string/text_write_story"
+        android:icon="@drawable/ic_notepad"/>
+
+    <item android:id="@+id/seeStory" app:showAsAction="always"
+        android:title="@string/text_see_story"
+        android:icon="@drawable/ic_checklist"/>
+</menu>
